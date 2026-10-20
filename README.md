@@ -1,4 +1,4 @@
-Climate Granularity, Part 1
+Climate Granularity
 ================
 
 - [Purpose](#purpose)
@@ -15,7 +15,7 @@ Climate Granularity, Part 1
 
 # Purpose
 
-This notebook is intentionally minimal. It provides additional informations about Section 3, *Exploratory quote evidence*. It also rebuilds the four central scenarios and produces only the four figures used in the paper:
+This notebook It provides additional informations. It also rebuilds the four central scenarios and produces only the four figures used in the paper:
 
 1.  relative premium paths by insurer and scenario;
 2.  market shares by risk class and scenario;
